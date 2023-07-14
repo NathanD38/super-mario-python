@@ -1,3 +1,4 @@
+# bouncy bounce
 class bounceTrait:
     def __init__(self, entity):
         self.vel = 5
